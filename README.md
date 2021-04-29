@@ -1,5 +1,7 @@
 # CSC 308 - Mobile Application Development for iOS - Spring 2020
-## Assignment 5
+
+This is the source code for my submission of the CSC 308 Assignment 5 individual project in Spring 2020 @ EKU.
+
 Write a game for iPhone Xs:
 1. The application should provide a button “Help” to trigger the display of an alert view to
 tell the user how to play the game.
