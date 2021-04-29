@@ -1,4 +1,4 @@
-# CSC308-Mobile-Application-Development-for-iOS-Assignment5
+# CSC 308 Mobile Application Development for iOS Assignment 5 - Spring 2020
 Write a game for iPhone Xs:
 1. The application should provide a button “Help” to trigger the display of an alert view to
 tell the user how to play the game.
